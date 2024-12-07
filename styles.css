@@ -9,15 +9,15 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #693a3a;
 }
 
 p {
-    color: #666;
+    color: #774f4f;
 }
 button {
     background-color: #4CAF50;
-    color: white; 
+    color: rgb(226, 16, 16); 
     padding: 15px 32px; 
     text-align: center; 
     font-size: 16px; 
